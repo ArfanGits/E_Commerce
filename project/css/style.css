@@ -1,0 +1,13 @@
+@import url(bootstrap.min.css);
+
+header .bg-light{
+    background-color: #4a4a4a !important;
+}
+
+header .navbar-light .navbar-nav .nav-link{
+    color: #fff;
+}
+
+header .navbar-light .navbar-nav .nav-link.active{
+    color: #bea285;
+}
